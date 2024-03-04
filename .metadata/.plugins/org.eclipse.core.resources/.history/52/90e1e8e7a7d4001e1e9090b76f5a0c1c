@@ -1,0 +1,14 @@
+package week7;
+
+public class gradeMark {
+
+	private char generateMark() {
+		return 'A';
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package week7;
+
+import junit.framework.TestCase;
+
+public class gradeMarkTest extends TestCase {
+	
+	private void testGenerateMark(){
+		generateMark();
+	}
+	
+	public static void main (String[] args) {
+		
+	}
+}

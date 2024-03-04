@@ -1,0 +1,20 @@
+package week7;
+
+public class gradeMark {
+
+	private char generateGrade(int courseMark) {
+		if(courseMark >= 70 ) {
+			 return 'A';
+		}
+		else if (courseMark >= 50 && courseMark < 70) {
+			return 'B';
+		}
+		return 'A';
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

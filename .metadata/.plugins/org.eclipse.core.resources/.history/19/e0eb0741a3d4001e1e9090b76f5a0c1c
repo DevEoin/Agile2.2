@@ -1,0 +1,12 @@
+package week7;
+
+public class gradeMarkTest {
+	
+	private void generateMarkTest(){
+		generateMarkTest();
+	}
+	
+	public static void main (String[] args) {
+		
+	}
+}

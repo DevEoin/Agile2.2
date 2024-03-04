@@ -1,0 +1,14 @@
+package week7;
+
+import junit.framework.TestCase;
+
+public class GradeMarkTest extends TestCase {
+	
+	GradeMark gm = new GradeMark();
+	
+	@Test
+	public void testGenerateGrade() {
+		assertEquals('A', gm.generateGrade(70, 0));
+	}
+	
+}
